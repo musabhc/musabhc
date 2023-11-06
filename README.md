@@ -12,7 +12,7 @@
 </div>
 
 [instagram]: https://www.instagram.com/musabhc
-[linkedin]: https://www.linkedin.com/in/musa-buhurcu/
+[linkedin]: [https://www.linkedin.com/in/musa-buhurcu/]
 [gmail]: mailto:musa.buhurcu@hotmail.com
   
 <br/>
