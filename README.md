@@ -5,14 +5,14 @@
 
 <div><div align="center">
 
-[<img align="center" alt="linkedin | LinkedIn" width="48px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>][linkedin]
+[<img align="center" height="48" width="48px" src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"/>][linkedin]
 [<img align="center" height="48" width="48" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>][instagram]
 [<img align="center" height="48" width="48" src="https://img.icons8.com/fluency/48/000000/mail.png"/>][gmail]
 
 </div>
 
 [instagram]: https://www.instagram.com/musabhc
-[linkedin]: [https://www.linkedin.com/in/musa-buhurcu/]
+[linkedin]: https://www.linkedin.com/in/musa-buhurcu/
 [gmail]: mailto:musa.buhurcu@hotmail.com
   
 <br/>
