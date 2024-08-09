@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Musa</h1>
-<h3 align="center">Computer Engineer Student at Fenerbahce University</h3>
+<h3 align="center">Computer Engineer</h3>
 
-- 🔭 I’m currently working on **Unity 2D Game**
+- 🔭 I’m currently working on **Simple ATM App**
 
-- 🌱 I’m currently learning **Garanti BBVA Security Bootcamp, Unity 2D**
+- 🌱 I’m currently looking for job!
 
-- 👨‍💻 All of my projects are available at [musabuhurcu.net](musabuhurcu.net)
+- 👨‍💻 All of my projects are available at [website](musabuhurcu.com.tr)
 
-- 📫 How to reach me **musa.buhurcu@outlook.com**
+- 📫 How to reach me **mbhc4235@gmail.com**
 
 - ⚡ Fun fact **Even though I'm bad at computer games, I love playing them.**
 
