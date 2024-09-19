@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Simple ATM Project
+🔭 I’m currently working on Portfolio Website with Admin Panel
 
 
 ## 🌐 Socials:
